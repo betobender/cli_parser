@@ -31,6 +31,7 @@ SOFTWARE.
 #include <memory>
 #include <sstream>
 #include <iomanip>
+#include <iostream>
 #include <vector>
 #include <functional>
 #include <exception>
